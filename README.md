@@ -1,6 +1,6 @@
-E-Commerce Sales Dashboard (Power BI)
+
 🧩 Project Title
-E-Commerce Sales Analysis Dashboard
+E-Commerce Sales Analysis Dashboard (Power BI)
 
 🛠 Tools Used
 Power BI Desktop
