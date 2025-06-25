@@ -23,6 +23,10 @@ High return rate in the “Furniture” category triggered restocking decisions.
 
 Sales peak observed during festival periods (October–December).
 
+🖼 Screenshot : Attach Below 
+![E - Commerce Sales Dashboard (Power BI)](https://github.com/user-attachments/assets/76bcf4d6-18eb-450d-b03b-919f340de117)
+
+
 📁 Please find the project file (`.pbix`), dataset (`.csv`), and dashboard screenshot included in this repository.
 
 
