@@ -1,4 +1,5 @@
 E-Commerce Sales Analysis Dashboard (Power BI)
+
 •	Problem Statement
 E-commerce stakeholders need a clear, interactive view of sales performance across regions, categories, and time to optimize pricing, inventory, and promotional strategies. This dashboard transforms transactional data into actionable insights for data-driven decision-making.
 
